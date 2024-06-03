@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Кроссовки New Balance 574",
+      "slug": "Кроссовки New Balance 574",
+      "price": 100.00,
+      "category": "Мужское",
+      "images": [
+        "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/6df/1008_800_451d/105334160299.jpg"
+       
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Кроссовки New Balance 574",
+      "slug": "Кроссовки New Balance 574",
+      "price": 150.00,
+      "category": "Женское",
+      "images": [
+        "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/16c/1008_800_9282/117034570299.jpg"
+       
+      ]
+    },
+    {
+      "id": 3,
+      "name": "NEW BALANCE NB ESSENTIALS STACKED LOGO PO HOODIE ЧЕРНАЯ",
+      "slug": "NEW BALANCE NB ESSENTIALS STACKED LOGO PO HOODIE ЧЕРНАЯ? ",
+      "price": 200.00,
+      "category": "Мужское",
+      "images": [
+        "https://bootwood.com/upload/iblock/048/6617f6545cd64_first_photo.jpg"
+      
+      ]
+    },
+    {
+      "id": 4,
+      "name": "NEW BALANCE NB ESSENTIALS FULL ZIP HOODIE СЕРАЯ",
+      "slug": "NEW BALANCE NB ESSENTIALS FULL ZIP HOODIE СЕРАЯ",
+      "price": 250.00,
+      "category": "Женское",
+      "images": [
+        "https://bootwood.com/upload/iblock/c0c/6610607744a5f_first_photo.jpg"
+        
+      ]
+    },
+    {
+      "id": 5,
+      "name": "NEW BALANCE NB ATHLETICS WINTERIZED SHORT SYNTHETIC PUFFER СИНЯЯ",
+      "slug": "NEW BALANCE NB ATHLETICS WINTERIZED SHORT SYNTHETIC PUFFER СИНЯЯ",
+      "price": 300.00,
+      "category": "Мужское",
+      "images": [
+        "https://bootwood.com/upload/iblock/da3/66104b6e1a2b8_first_photo.jpg"
+   
+      ]
+    }
+  ]
+}
